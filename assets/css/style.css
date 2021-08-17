@@ -1526,7 +1526,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #010351;
+  background: #8656fa;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -1538,7 +1538,7 @@ section {
 
 #footer .footer-top .footer-info {
   margin-bottom: 15px;
-  background: #010246;
+  background: #8656fa;
   color: #fff;
   border-top: 4px solid #1acc8d;
   text-align: center;
@@ -1660,7 +1660,7 @@ section {
 }
 
 #footer .copyright {
-  border-top: 1px solid #010479;
+  border-top: 1px solid #8656fa;
   text-align: center;
   padding-top: 30px;
 }
